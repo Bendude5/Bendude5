@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate software and game developer from Birmingham</h3>
 
+- 👨‍🎓 I have a degree in Computer Games Technology from **Birmingham City University**
+- 👨‍🎓 Junior full stack developer 2024 from **School Of Code**
+- 👨‍🎓 IT Technician from **Netcom Training**
+
 - 🔭 I’m currently working on **my own big indie game and various web applications**
 
 - 🌱 I’m currently learning **more about web development skills as well as further game design**
@@ -8,6 +12,8 @@
 - 👯 I’m looking to collaborate on **anything that I can be a part of**
 
 - 📫 How to reach me **Benmiller2001@hotmail.co.uk**
+
+- 🙌 Take a look at my final School Of Code
 
 - ⚡ Fun fact **I acctually like liquorish**
 
