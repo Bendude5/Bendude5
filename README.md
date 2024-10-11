@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Benmiller2001@hotmail.co.uk**
 
-- 🙌 Take a look at my final School Of Code
+- 🙌 Take a look at my final **School Of Code Project** - https://github.com/SchoolOfCode/final-project-the-code-koalas
 
 - ⚡ Fun fact **I acctually like liquorish**
 
